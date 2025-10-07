@@ -23,16 +23,16 @@ npx expo start
 # Screenshots
 
 ### Home Page
-![Home Screen](lib/screenshots/home.png)
+![Home Screen](screenshots/home.png)
 
 ### Notes List Page
-![Notes list Screen](lib/screenshots/mynotes.png)
+![Notes list Screen](screenshots/mynotes.png)
 
 ### Add Note Page
-![Add notes Screen](lib/screenshots/addnote.png)
+![Add notes Screen](screenshots/addnote.png)
 
 ### Edit Note Page
-![Notes list with the new note Screen](lib/screenshots/noteall.png)
+![Notes list with the new note Screen](screenshots/noteall.png)
 
 
 
