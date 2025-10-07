@@ -31,8 +31,8 @@ npx expo start
 ### Add Note Page
 ![Add notes Screen](screenshots/addnote.png)
 
-### Edit Note Page
-![Notes list with the new note Screen](screenshots/noteall.png)
+### Notes List page with the new Note 
+![Notes list with the new note Screen](screenshots/notesall.png)
 
 
 
